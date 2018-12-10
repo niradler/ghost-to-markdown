@@ -1,0 +1,16 @@
+{
+  "name": "ghost-to-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "dependencies": {
+    "turndown": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nir Adler",
+  "license": "ISC"
+}
