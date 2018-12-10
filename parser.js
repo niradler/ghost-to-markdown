@@ -1,5 +1,5 @@
 const fs = require("fs");
-const data = fs.readFileSync('./another-tech-blog.ghost.2018-12-07.json', "utf8");
+const data = fs.readFileSync('./ghost-export.json', "utf8");
 const TurndownService = require('turndown') 
 const turndownService = new TurndownService()
 
